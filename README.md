@@ -8,14 +8,17 @@ To execute this project open to CMD's in split screen mode (Split Screen is just
 
 On one CMD first use type this
 >> javac Server.java
+
 >> java Server
 
 Remeber to execute Server.java first then on another CMD type this code
 >> javac Client.java
+
 >> java Client
 
 As soon as Client executes (already before this Server is waiting for connection) Client will send request to get connected with Server
 <img width="398" alt="image" src="https://github.com/akashpandit3010/ChatApplication/assets/109208423/8d092d20-924f-46a9-bd42-0fcb5e629605">
+
 You will see above system prompt, allow this
 
 Only after succesful connection between Client and Server, On both CMD's program will ask for name. You can answer this and continue.
