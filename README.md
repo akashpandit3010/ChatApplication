@@ -33,6 +33,7 @@ END is case sesitive exit command.
 
 Incase you want client and server program to run on two different machines you will have to modify Socket declaration part in boh the files replace IP addresses of the machines
 
-Thank you
+Thank you 
+
 Akash Pandit
 
